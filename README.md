@@ -1,3 +1,2 @@
 # badge
 
-# Daksh Arya
